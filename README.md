@@ -1,4 +1,4 @@
-Bon-Appetit.github.io
+https://anusreeukkalam.github.io/Bon-Appetit/
 
 
 "# Bon-Appetit Website" 
