@@ -1,3 +1,5 @@
 Bon-Appetit.github.io
+
+
 "# Bon-Appetit Website" 
 This is India's first one of a kind Meal kit service delivery app. Bon Appetit is a one-day delivery service that provides customers with pre-measured ingredients and recipes to cook fresh and delicious meals at home. Customers can browse through a wide range of recipes categorized by dietary preferences, cooking time, and cuisine types. Users can manage their orders through the app, including selecting differnt plans, updating payment information, and tracking deliveries. We deliver boxes containing fresh ingredients for a chosen number of meals per week, along with detailed recipe cards. Our recipes are based on their dietary preferences maintaining nutritional standards and organic quality, including vegetarian, vegan, low-calorie, and kid & family-friendly options. Basic aim is to aid working women by simplifying meal planning, grocery shopping, and cooking by providing convenient and hassle-free solutions for busy individuals and families.
