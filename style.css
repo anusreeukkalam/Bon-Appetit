@@ -558,7 +558,7 @@
   .section_RecipeWeek
   .section_RecipeWeek_row
   .section_RecipeWeek_row_col:nth-of-type(3) {
-  background: url("./sambar-curry-vadai (1).jpg");
+  background: url("sambar-curry-vadai (1).jpg");
 }
 *
   body
@@ -579,7 +579,7 @@
   .section_RecipeWeek
   .section_RecipeWeek_row
   .section_RecipeWeek_row_col:nth-of-type(4) {
-  background: url("../image/Sambar-Sadam-2\ \(1\).jpg");
+  background: url("Sambar-Sadam-2\ \(1\).jpg");
 }
 *
   body
@@ -732,7 +732,7 @@
 
 * body .container_website main .section_Plans {
   margin-top: 50px;
-  background: url("../image/box.jpg");
+  background: url("box.jpg");
   height: 320px;
   display: flex;
   justify-content: center;
