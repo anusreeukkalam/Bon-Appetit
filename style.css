@@ -537,7 +537,7 @@
   .section_RecipeWeek
   .section_RecipeWeek_row
   .section_RecipeWeek_row_col:nth-of-type(2) {
-  background: url("../image/cover-1-12\ \(1\).jpg");
+  background: url("/cover-1-12\ \(1\).jpg");
 }
 *
   body
@@ -558,7 +558,7 @@
   .section_RecipeWeek
   .section_RecipeWeek_row
   .section_RecipeWeek_row_col:nth-of-type(3) {
-  background: url("../image/sambar-curry-vadai (1).jpg");
+  background: url("./sambar-curry-vadai (1).jpg");
 }
 *
   body
